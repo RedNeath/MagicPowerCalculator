@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\class"
+		},
+		{
+			"path": "..\\doc"
+		},
+		{
+			"path": "..\\src"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\releases"
+		}
+	]
+}
